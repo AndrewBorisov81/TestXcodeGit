@@ -15,6 +15,7 @@ public:
     ~TestClass();
     
     void sayHello();
+    void deleteLastCommit();
     
 private:
     

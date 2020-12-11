@@ -23,3 +23,8 @@ void TestClass::sayHello()
 {
     std::cout << "Hello Test class\n";
 }
+
+void TestClass::deleteLastCommit()
+{
+    std::cout << "Delete last commit\n";
+}
